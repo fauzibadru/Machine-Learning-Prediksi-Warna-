@@ -1,0 +1,221 @@
+B,G,R,Target
+70,155,97,kuning
+70,154,96,kuning
+72,156,98,kuning
+74,159,101,kuning
+73,158,100,kuning
+73,156,100,kuning
+74,156,101,kuning
+75,155,101,kuning
+76,155,101,kuning
+70,152,96,kuning
+70,150,97,kuning
+70,151,98,kuning
+72,154,99,kuning
+72,155,97,kuning
+73,155,97,kuning
+76,156,99,kuning
+79,158,101,kuning
+78,158,101,kuning
+77,157,100,kuning
+68,154,99,kuning
+69,155,98,kuning
+71,157,100,kuning
+74,158,103,kuning
+76,158,103,kuning
+77,156,100,kuning
+77,154,97,kuning
+77,154,97,kuning
+75,152,95,kuning
+74,151,94,kuning
+69,156,93,kuning
+68,156,93,kuning
+66,153,92,kuning
+71,156,97,kuning
+75,159,101,kuning
+74,156,101,kuning
+73,154,102,kuning
+76,156,106,kuning
+78,157,107,kuning
+76,155,104,kuning
+69,146,89,kuning
+72,147,91,kuning
+70,145,89,kuning
+70,145,89,kuning
+74,149,93,kuning
+74,148,93,kuning
+75,149,94,kuning
+76,150,95,kuning
+77,151,95,kuning
+77,152,93,kuning
+75,157,98,kuning
+76,156,99,kuning
+77,156,100,kuning
+77,155,101,kuning
+78,156,102,kuning
+76,157,102,kuning
+74,158,103,kuning
+69,155,100,kuning
+72,157,103,kuning
+76,161,107,kuning
+81,158,100,kuning
+81,158,101,kuning
+73,153,97,kuning
+67,149,92,kuning
+75,159,98,kuning
+72,158,95,kuning
+71,157,93,kuning
+71,156,93,kuning
+73,156,94,kuning
+72,156,95,kuning
+64,148,90,kuning
+64,147,87,kuning
+64,147,85,kuning
+64,147,83,kuning
+64,147,82,kuning
+67,150,86,kuning
+71,153,90,kuning
+70,153,91,kuning
+37,38,35,hitam
+31,35,30,hitam
+34,39,32,hitam
+37,40,34,hitam
+39,40,34,hitam
+47,46,42,hitam
+46,45,41,hitam
+42,44,39,hitam
+42,43,40,hitam
+44,43,42,hitam
+45,43,43,hitam
+47,45,44,hitam
+45,45,42,hitam
+45,45,41,hitam
+44,44,40,hitam
+45,42,38,hitam
+45,43,40,hitam
+45,43,41,hitam
+45,44,43,hitam
+44,45,43,hitam
+44,45,42,hitam
+42,44,38,hitam
+43,45,39,hitam
+45,47,42,hitam
+45,46,43,hitam
+40,37,39,hitam
+43,38,42,hitam
+47,41,45,hitam
+46,42,44,hitam
+40,38,37,hitam
+41,39,38,hitam
+44,41,40,hitam
+47,43,42,hitam
+44,41,40,hitam
+43,39,38,hitam
+42,40,40,hitam
+41,40,40,hitam
+39,39,39,hitam
+37,37,37,hitam
+37,37,37,hitam
+192,87,224,pink
+194,87,230,pink
+193,88,232,pink
+194,90,232,pink
+195,88,231,pink
+195,88,231,pink
+191,91,231,pink
+189,88,224,pink
+197,89,236,pink
+192,87,232,pink
+193,86,234,pink
+193,87,231,pink
+193,87,231,pink
+191,91,230,pink
+191,86,231,pink
+196,89,232,pink
+191,83,225,pink
+192,88,229,pink
+192,88,229,pink
+191,90,229,pink
+191,90,232,pink
+188,87,229,pink
+192,87,228,pink
+192,87,228,pink
+195,92,230,pink
+189,89,226,pink
+125,79,225,merah
+122,77,224,merah
+125,79,225,merah
+125,78,228,merah
+126,79,231,merah
+126,79,231,merah
+122,75,227,merah
+119,73,226,merah
+120,74,228,merah
+119,73,229,merah
+121,75,231,merah
+126,78,233,merah
+128,78,232,merah
+126,80,227,merah
+123,79,226,merah
+120,77,224,merah
+120,77,225,merah
+122,77,228,merah
+124,77,229,merah
+124,76,228,merah
+125,78,228,merah
+126,80,229,merah
+127,81,228,merah
+126,84,234,merah
+125,83,231,merah
+120,79,227,merah
+123,81,229,merah
+125,80,230,merah
+127,78,230,merah
+127,77,229,merah
+131,80,232,merah
+132,82,234,merah
+131,82,234,merah
+123,80,225,merah
+124,80,226,merah
+124,80,227,merah
+123,80,227,merah
+249,151,59,biru muda
+252,152,60,biru muda
+253,153,62,biru muda
+253,155,65,biru muda
+251,155,65,biru muda
+248,153,63,biru muda
+251,154,64,biru muda
+254,157,67,biru muda
+252,156,66,biru muda
+248,152,62,biru muda
+247,152,56,biru muda
+248,152,56,biru muda
+255,158,62,biru muda
+255,158,63,biru muda
+255,156,64,biru muda
+255,157,66,biru muda
+255,157,65,biru muda
+254,155,63,biru muda
+250,155,62,biru muda
+248,155,62,biru muda
+255,154,64,biru muda
+255,154,65,biru muda
+254,153,65,biru muda
+255,152,65,biru muda
+255,151,65,biru muda
+254,150,63,biru muda
+253,151,61,biru muda
+253,152,60,biru muda
+255,153,60,biru muda
+255,154,61,biru muda
+252,154,62,biru muda
+252,156,63,biru muda
+253,157,64,biru muda
+252,158,65,biru muda
+250,157,64,biru muda
+249,156,63,biru muda
+249,155,63,biru muda
+251,156,63,biru muda
+252,156,62,biru muda
+253,157,61,biru muda
